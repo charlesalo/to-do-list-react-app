@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/to-do-list-react-app/static/js/main.942bedbc.js",
-    "index.html": "/to-do-list-react-app/index.html",
-    "main.942bedbc.js.map": "/to-do-list-react-app/static/js/main.942bedbc.js.map"
+    "main.js": "/static/js/main.942bedbc.js",
+    "index.html": "/index.html",
+    "main.942bedbc.js.map": "/static/js/main.942bedbc.js.map"
   },
   "entrypoints": [
     "static/js/main.942bedbc.js"
